@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ouda</h1>
 <h3 align="center">A passionate full stack developer from Kenya</h3>
 
-- 🔭 I’m currently working on [Task Scheduling API](https://github.com/ouda711/task-scheduling-api)
+- 🔭 I’m currently working on [React Native Starter Kit](https://github.com/ouda711/react-native-starter-kit)
 
 - 🌱 I’m currently learning **Spring Boot**
 
