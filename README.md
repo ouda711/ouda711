@@ -15,11 +15,11 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/ouda7
 
 ### 🛠️ Tools
 
-- **Languages:** JavaScript, TypeScript, Python, C#, C++, Java
-- **Frameworks:** React, Angular, .NET Core, Spring Boot, Express.js, Django
+- **Languages:** JavaScript, TypeScript, Python, C#, C++, Java, PHP
+- **Frameworks:** React, Angular, .NET Core, Spring Boot, Express.js, Django, Laravel
 - **Databases:** PostgreSQL, MySQL, MongoDB
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, AWS, GitHub Actions
-- **Others:** Git, GitHub, Visual Studio Code
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, AWS, GitHub Actions, Azure
+- **Others:** Git, GitHub, Visual Studio Code, Microservices, MPGS Payment Integration, Web3, Daraja API
 
 ### 👋🏻 Connect with Me
 
