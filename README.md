@@ -11,7 +11,7 @@ As a seasoned Full Stack Developer with a wealth of experience and a passion for
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/ouda711/Portfolio-Guide). Here, you can explore a range of projects that highlight my ability to tackle complex challenges and deliver innovative solutions.
+Welcome to my portfolio, where I showcase my [projects](https://github.com/ouda711/Portfolio-Guide). Here, you can explore a range of projects that highlight some of my abilities.
 
 ### 🛠️ Tools
 
