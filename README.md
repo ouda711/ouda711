@@ -23,7 +23,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/ouda7
 
 ### 👋🏻 Connect with Me
 
-I'm always open to new opportunities and collaborations. Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/oudawycliffe/](https://www.linkedin.com/in/ouda-wycliffe-378644162/)).
+I'm always open to new opportunities and collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ouda-wycliffe-378644162/).
 
 ### 🔥 &nbsp; My Stats:
 
