@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Ouda</h1>
 <h3 align="center">A Passionate Full Stack Developer from Kenya</h3>
 
-As a seasoned Full Stack Developer with a wealth of experience and a passion for crafting seamless and efficient web applications, I bring a unique blend of technical expertise and creative problem-solving skills to the table. My goal is to deliver high-quality, scalable solutions that drive business success and enhance user experiences.
+I am a Full Stack Developer with experience in both front-end and back-end development, database management, API development, and DevOps.
 
-- **Front-End Development:** Expert in creating responsive, interactive, and visually appealing web interfaces using HTML, CSS, JavaScript, and frameworks like React. I prioritize user-centric design and seamless functionality to ensure an optimal user experience across all devices.
-- **Back-End Development:** Adept at building robust and secure server-side applications with Node.js, Express, and .NET. My backend solutions are designed to be scalable, maintainable, and efficient, ensuring high performance and reliability.
-- **Database Management:** Experienced in designing, managing, and optimizing databases using SQL and NoSQL databases such as PostgreSQL, MySQL, and MongoDB. I ensure data integrity, security, and efficient data retrieval to support application needs.
-- **API Development:** Proficient in developing RESTful APIs and integrating third-party services. My APIs are designed for scalability and performance, enabling seamless communication between different parts of the application ecosystem.
-- **DevOps:** Skilled in using Docker and Kubernetes for containerization and orchestration, as well as CI/CD pipelines for automated deployment. I leverage AWS and GitHub Actions to enhance application reliability and streamline the development process.
+- **Front-End Development:** Skilled in HTML, CSS, JavaScript, and React.
+- **Back-End Development:** Proficient with Node.js, Express, and .NET.
+- **Database Management:** Experienced with PostgreSQL, MySQL, and MongoDB.
+- **API Development:** Expert in creating RESTful APIs and integrating third-party services.
+- **DevOps:** Knowledgeable in Docker, Kubernetes, AWS, and CI/CD pipelines.
 
 ### 📚 Projects
 
-Welcome to my portfolio, where I showcase my [projects](https://github.com/ouda711/Portfolio-Guide). Here, you can explore a range of projects that highlight some of my abilities.
+Check out my [portfolio](https://github.com/ouda711/Portfolio-Guide) to see my projects.
 
 ### 🛠️ Tools
 
@@ -23,7 +23,7 @@ Welcome to my portfolio, where I showcase my [projects](https://github.com/ouda7
 
 ### 👋🏻 Connect with Me
 
-I'm always open to new opportunities and collaborations. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ouda-wycliffe-378644162/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ouda-wycliffe-378644162/).
 
 ### 🔥 &nbsp; My Stats:
 
