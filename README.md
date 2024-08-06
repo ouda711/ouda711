@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ouda</h1>
 <h3 align="center">A Passionate Full Stack Developer from Kenya</h3>
 
-I am a Full Stack Developer with experience in both front-end and back-end development, database management, API development, and DevOps.
+Experienced in creating scalable, efficient web applications. Skilled in multiple languages and frameworks, with a focus on delivering high-quality projects.
 
 - **Front-End Development:** Skilled in HTML, CSS, JavaScript, and React.
 - **Back-End Development:** Proficient with Node.js, Express, and .NET.
