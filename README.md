@@ -40,12 +40,6 @@ I build scalable, dependable web applications end to end — from the database a
   <a href="https://github.com/ouda711/mpesa-laravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ouda711&repo=mpesa-laravel&theme=vision-friendly-dark&hide_border=true" alt="mpesa-laravel" /></a>
 </p>
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=ouda711&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=-1&title=Commits,Repositories,MultiLanguage,LongTimeUser,Stars,Followers,PullRequest,Issues" width="100%" alt="GitHub trophies" />
-</p>
-
 ### 📊 GitHub stats
 
 <p align="center">
