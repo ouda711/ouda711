@@ -9,7 +9,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ouda-wycliffe-378644162/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://x.com/LethalOuda"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <img src="https://komarev.com/ghpvc/?username=ouda711&style=for-the-badge&color=f97316&label=Profile+views" alt="Profile views" />
 </p>
 
 ---
@@ -39,6 +38,12 @@ I build scalable, dependable web applications end to end — from the database a
   <a href="https://github.com/ouda711/nasvp-workspace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ouda711&repo=nasvp-workspace&theme=vision-friendly-dark&hide_border=true" alt="nasvp-workspace" /></a>
   <a href="https://github.com/ouda711/saas-landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ouda711&repo=saas-landing-page&theme=vision-friendly-dark&hide_border=true" alt="saas-landing-page" /></a>
   <a href="https://github.com/ouda711/mpesa-laravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ouda711&repo=mpesa-laravel&theme=vision-friendly-dark&hide_border=true" alt="mpesa-laravel" /></a>
+</p>
+
+### 🏆 Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=ouda711&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=-1&title=Commits,Repositories,MultiLanguage,LongTimeUser,Stars,Followers,PullRequest,Issues" width="100%" alt="GitHub trophies" />
 </p>
 
 ### 📊 GitHub stats
