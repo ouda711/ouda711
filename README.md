@@ -49,8 +49,8 @@ I build scalable, dependable web applications end to end — from the database a
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouda711&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouda711&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ouda711&show_icons=true&theme=vision-friendly-dark&hide_border=true&rank_icon=github&card_width=440&cache_seconds=86400" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouda711&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true&card_width=440&cache_seconds=86400" width="49%" alt="Top languages" />
 </p>
 
 <p align="center">
