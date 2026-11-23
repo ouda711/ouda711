@@ -1,32 +1,66 @@
-<h1 align="center">Hi 👋, I'm Ouda</h1>
-<h3 align="center">A Passionate Full Stack Developer from Kenya</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:f97316&height=200&section=header&text=Ouda%20Wycliffe&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Nairobi%2C%20Kenya&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ouda Wycliffe" />
 
-Experienced in creating scalable, efficient web applications. Skilled in multiple languages and frameworks.
+<p align="center">
+  <a href="https://github.com/ouda711">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=F97316&center=true&vCenter=true&width=620&lines=Code+with+passion%2C+develop+with+purpose.;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+.NET+%C2%B7+Rust;Payments%2C+APIs+and+business+software+for+Africa" alt="Typing intro" />
+  </a>
+</p>
 
-- **Front-End Development:** Skilled in HTML, CSS, JavaScript, and React.
-- **Back-End Development:** Proficient with Node.js, Express, and .NET.
-- **Database Management:** Experienced with PostgreSQL, MySQL, and MongoDB.
-- **API Development:** Expert in creating RESTful APIs and integrating third-party services.
-- **DevOps:** Knowledgeable in Docker, Kubernetes, AWS, and CI/CD pipelines.
+<p align="center">
+  <a href="https://www.linkedin.com/in/ouda-wycliffe-378644162/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/LethalOuda"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ouda711&style=for-the-badge&color=f97316&label=Profile+views" alt="Profile views" />
+</p>
 
-### 📚 Projects
+---
 
-Check out my [portfolio](https://github.com/ouda711/Portfolio-Guide) to see my projects.
+### 👨🏾‍💻 About me
 
-### 🛠️ Tools
+I build scalable, dependable web applications end to end — from the database and the API to the screen a customer taps.
 
-- **Languages:** JavaScript, TypeScript, Python, C#, C++, Java, PHP
-- **Frameworks:** React, Angular, .NET Core, Spring Boot, Express.js, Django, Laravel
-- **Databases:** PostgreSQL, MySQL, MongoDB
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, AWS, GitHub Actions, Azure
-- **Others:** Git, GitHub, Visual Studio Code, Microservices, MPGS Payment Integration, Web3, Daraja API
+- 🌍 Based in **Nairobi, Kenya**
+- 💳 Payments work: **M-Pesa Daraja**, **MPGS**, money handled as exact minor units, never floats
+- 🧱 Back ends in **Node.js / Express**, **.NET** and **Spring Boot**; front ends in **React**, **Next.js** and **Angular**
+- 🦀 Lately writing **Rust** — see [`ledger`](https://github.com/ouda711/ledger), a dependency-free money tracker
+- ☁️ Shipping with **Docker**, **Kubernetes**, **AWS**, **Azure** and **GitHub Actions**
 
-### 👋🏻 Connect with Me
+### 🛠️ Tech stack
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/ouda-wycliffe-378644162/).
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,cs,java,python,php,cpp&perline=8" alt="Languages" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,nodejs,express,dotnet,spring,django,laravel&perline=10" alt="Frameworks" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma,docker,kubernetes,aws,azure,githubactions&perline=10" alt="Data and DevOps" />
+</p>
 
-### 🔥 &nbsp; My Stats:
+### 📌 Featured projects
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ouda711)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://github.com/ouda711/ledger"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ouda711&repo=ledger&theme=vision-friendly-dark&hide_border=true" alt="ledger" /></a>
+  <a href="https://github.com/ouda711/nasvp-workspace"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ouda711&repo=nasvp-workspace&theme=vision-friendly-dark&hide_border=true" alt="nasvp-workspace" /></a>
+  <a href="https://github.com/ouda711/saas-landing-page"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ouda711&repo=saas-landing-page&theme=vision-friendly-dark&hide_border=true" alt="saas-landing-page" /></a>
+  <a href="https://github.com/ouda711/mpesa-laravel"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ouda711&repo=mpesa-laravel&theme=vision-friendly-dark&hide_border=true" alt="mpesa-laravel" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouda711&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+### 📊 GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ouda711&show_icons=true&include_all_commits=true&count_private=true&theme=vision-friendly-dark&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouda711&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true" height="170" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ouda711&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ouda711&theme=react-dark&bg_color=0d1117&color=f97316&line=f97316&point=ffffff&hide_border=true&area=true" width="100%" alt="Contribution graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ouda711/ouda711/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/ouda711/ouda711/output/github-contribution-grid-snake.svg" alt="Snake eating my contributions" />
+  </picture>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt="" />
