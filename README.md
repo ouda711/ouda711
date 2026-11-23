@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/ouda711">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=F97316&center=true&vCenter=true&width=620&lines=Code+with+passion%2C+develop+with+purpose.;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+.NET+%C2%B7+Rust;Payments%2C+APIs+and+business+software+for+Africa" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=F97316&center=true&vCenter=true&width=620&lines=Code+with+passion%2C+develop+with+purpose.;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+.NET+%C2%B7+Rust;Payments%2C+APIs+and+business+software" alt="Typing intro" />
   </a>
 </p>
 
@@ -49,12 +49,9 @@ I build scalable, dependable web applications end to end — from the database a
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouda711&show_icons=true&theme=vision-friendly-dark&hide_border=true&rank_icon=github&card_width=440&cache_seconds=86400" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouda711&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true&card_width=440&cache_seconds=86400" width="49%" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ouda711&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ouda711&show_icons=true&theme=vision-friendly-dark&hide_border=true&rank_icon=github&card_width=440&cache_seconds=86400" width="32%" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouda711&layout=compact&langs_count=8&theme=vision-friendly-dark&hide_border=true&card_width=440&cache_seconds=86400" width="32%" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com?user=ouda711&theme=vision-friendly-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" width="32%" alt="GitHub streak" />
 </p>
 
 <p align="center">
