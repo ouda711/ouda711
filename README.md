@@ -1,13 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:f97316&height=200&section=header&text=Ouda%20Wycliffe&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%20Nairobi%2C%20Kenya&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ouda Wycliffe" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:f97316&height=200&section=header&text=Ouda%20Wycliffe&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20%C2%B7%20Forward%20Deployed%20AI%20Engineer%20%C2%B7%20Nairobi&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Ouda Wycliffe" />
 
 <p align="center">
   <a href="https://github.com/ouda711">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=F97316&center=true&vCenter=true&width=620&lines=Code+with+passion%2C+develop+with+purpose.;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+.NET+%C2%B7+Rust;Payments%2C+APIs+and+business+software" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=900&color=F97316&center=true&vCenter=true&width=620&lines=Code+with+passion%2C+develop+with+purpose.;Forward+Deployed+AI+Engineer;TypeScript+%C2%B7+Node.js+%C2%B7+React+%C2%B7+.NET+%C2%B7+Rust;Payments%2C+APIs+and+business+software" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ouda-wycliffe-378644162/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://lineard.com"><img src="https://img.shields.io/badge/lineard.com-f97316?style=for-the-badge&logo=googlechrome&logoColor=white" alt="lineard.com" /></a>
   <a href="https://x.com/LethalOuda"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
@@ -18,6 +19,7 @@
 I build scalable, dependable web applications end to end — from the database and the API to the screen a customer taps.
 
 - 🌍 Based in **Nairobi, Kenya**
+- 🤖 **Forward Deployed AI Engineer** — building AI agents and custom systems for businesses with [Lineard](https://lineard.com)
 - 💳 Payments work: **M-Pesa Daraja**, **MPGS**, money handled as exact minor units, never floats
 - 🧱 Back ends in **Node.js / Express**, **.NET** and **Spring Boot**; front ends in **React**, **Next.js** and **Angular**
 - 🦀 Lately writing **Rust** — see [`ledger`](https://github.com/ouda711/ledger), a dependency-free money tracker
