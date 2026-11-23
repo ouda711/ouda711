@@ -29,4 +29,4 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ouda-wycliffe-37864416
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ouda711)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouda711&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouda711&layout=compact&theme=vision-friendly-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
